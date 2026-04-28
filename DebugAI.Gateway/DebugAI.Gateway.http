@@ -1,0 +1,6 @@
+@DebugAI.Gateway_HostAddress = http://localhost:5023
+
+GET {{DebugAI.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

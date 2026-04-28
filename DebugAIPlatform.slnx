@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DebugAI.API/DebugAI.API.csproj" />
+  <Project Path="DebugAI.Application/DebugAI.Application.csproj" />
+  <Project Path="DebugAI.Domain/DebugAI.Domain.csproj" />
+  <Project Path="DebugAI.Infrastructure/DebugAI.Infrastructure.csproj" />
+</Solution>
